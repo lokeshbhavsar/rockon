@@ -1,0 +1,3 @@
+const conflict=()=>{
+    print('next')
+}
