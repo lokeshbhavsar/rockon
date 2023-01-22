@@ -4,4 +4,5 @@ const conflict=()=>{
 
 const lok=()=>{
     print('hey')
+    print('from lokesh')
 }
